@@ -1,0 +1,11 @@
+.quiz {
+  width: 100px;
+  height: 100px;
+  border-radius: 500px;
+}
+
+.quiz > img {
+  width: 100vw;
+  height: 100vw;
+  object-fit: cover;
+}
